@@ -7,9 +7,8 @@ Gem::Specification.new do |s|
   s.version     = Devise::VERSION.dup
   s.platform    = Gem::Platform::RUBY
   s.summary     = "Flexible authentication solution for Rails with Warden"
-  s.email       = "contact@plataformatec.com.br"
-  s.homepage    = "http://github.com/plataformatec/devise"
-  s.description = "Flexible authentication solution for Rails with Warden"
+  s.homepage    = "http://github.com/in4systems/devise"
+  s.description = "Devise that should work with jRuby Warden compiled."
   s.authors     = ['José Valim', 'Carlos Antônio']
 
   s.rubyforge_project = "devise"
